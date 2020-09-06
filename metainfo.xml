@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="B817F3DB-F0CB-4894-B329-F7AC8788DC30" version="0">
+	<info>
+		<title>EXAM 12 CLASS X</title>
+		<description/>
+	</info>
+	<files index="id26" thumbnail="id22" totalSize="2239193">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-15e938b77a1245c6a1c4f79448bfe625aa3982c2.png</file>
+		<file id="id10">data/images/img-1a429f98a60fa3f77aefa06446f997f2b2b0aeb5.png</file>
+		<file id="id11">data/images/img-35249a1a7c69fa1004e08f56238afe9f1681cfea.jpg</file>
+		<file id="id12">data/images/img-a1947cba7158b2a981d73adf19f0b14ea9a32177.jpg</file>
+		<file id="id13">data/images/img-aefc227cf5ccc546c4aac0f70c34dafc0e52922a.png</file>
+		<file id="id14">data/images/img-d7fc0d528ca07a375ec1e435e8467a6d82256716.png</file>
+		<file id="id15">data/images/img-db23d3807933184eb242a1f051c3f307a933bcbb.png</file>
+		<file id="id16">data/images/img-dc78e3552a96d205c5d1634e85bec213179af204.jpg</file>
+		<file id="id17">data/images/img-dfc5b02d7e358caef02828e4d69f0f3b486b4c75.jpg</file>
+		<file id="id18">data/images/img-f6ba33d4770be03a5be96eb51a32906f357c7aaa.png</file>
+		<file id="id19">data/images/img-fb9e49c30da1995e642f576db8c901f35576e986.jpg</file>
+		<file id="id20">data/ismplayer/app_store2x.png</file>
+		<file id="id21">data/ismplayer/play.svg</file>
+		<file id="id22">data/ismplayer/preview.png</file>
+		<file id="id23">data/ismplayer/style.css</file>
+		<file id="id24">data/ismplayer/style_mini.css</file>
+		<file id="id25">data/player.js</file>
+		<file id="id26">index.html</file>
+		<file id="id27">ismplayer.html</file>
+		<file id="id28">preview.png</file>
+	</files>
+</presentation>
+
